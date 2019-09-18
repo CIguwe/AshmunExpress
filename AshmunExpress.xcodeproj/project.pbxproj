@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2C3949820CAEFE9008A19C1 /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C3949720CAEFE9008A19C1 /* StudentView.swift */; };
+		B2C3949A20CAF59B008A19C1 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C3949920CAF59B008A19C1 /* TestView.swift */; };
 		D33143CF1FE24D9F00F88D49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143CE1FE24D9F00F88D49 /* AppDelegate.swift */; };
 		D33143D11FE24D9F00F88D49 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143D01FE24D9F00F88D49 /* ViewController.swift */; };
 		D33143D41FE24D9F00F88D49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D33143D21FE24D9F00F88D49 /* Main.storyboard */; };
@@ -15,6 +17,12 @@
 		D33143DC1FE24D9F00F88D49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D33143DA1FE24D9F00F88D49 /* LaunchScreen.storyboard */; };
 		D33143E71FE24D9F00F88D49 /* LearningExpressTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143E61FE24D9F00F88D49 /* LearningExpressTests.swift */; };
 		D33143F21FE24D9F00F88D49 /* LearningExpressUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143F11FE24D9F00F88D49 /* LearningExpressUITests.swift */; };
+		D38A41331FE281420031EEA7 /* CreateUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38A41321FE281420031EEA7 /* CreateUserView.swift */; };
+		D38A41351FE2948A0031EEA7 /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38A41341FE2948A0031EEA7 /* MainMenuView.swift */; };
+		D38D769E1FF681410018D0F9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D769D1FF681410018D0F9 /* SettingsView.swift */; };
+		D38D76A01FF6D31A0018D0F9 /* TutorialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D769F1FF6D31A0018D0F9 /* TutorialView.swift */; };
+		D38D76A21FF6D4350018D0F9 /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D76A11FF6D4350018D0F9 /* PracticeView.swift */; };
+		D38D76A41FF6D6DE0018D0F9 /* ExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D76A31FF6D6DE0018D0F9 /* ExampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +43,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D33143CB1FE24D9F00F88D49 /* LearningExpress.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningExpress.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2C3949720CAEFE9008A19C1 /* StudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentView.swift; sourceTree = "<group>"; };
+		B2C3949920CAF59B008A19C1 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		D33143CB1FE24D9F00F88D49 /* AshmunExpress.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AshmunExpress.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D33143CE1FE24D9F00F88D49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D33143D01FE24D9F00F88D49 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D33143D31FE24D9F00F88D49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -43,12 +53,18 @@
 		D33143D81FE24D9F00F88D49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D33143DB1FE24D9F00F88D49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D33143DD1FE24D9F00F88D49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D33143E21FE24D9F00F88D49 /* LearningExpressTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningExpressTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D33143E21FE24D9F00F88D49 /* AshmunExpressTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AshmunExpressTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D33143E61FE24D9F00F88D49 /* LearningExpressTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningExpressTests.swift; sourceTree = "<group>"; };
 		D33143E81FE24D9F00F88D49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D33143ED1FE24D9F00F88D49 /* LearningExpressUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningExpressUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D33143ED1FE24D9F00F88D49 /* AshmunExpressUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AshmunExpressUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D33143F11FE24D9F00F88D49 /* LearningExpressUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningExpressUITests.swift; sourceTree = "<group>"; };
 		D33143F31FE24D9F00F88D49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D38A41321FE281420031EEA7 /* CreateUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateUserView.swift; sourceTree = "<group>"; };
+		D38A41341FE2948A0031EEA7 /* MainMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuView.swift; sourceTree = "<group>"; };
+		D38D769D1FF681410018D0F9 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D38D769F1FF6D31A0018D0F9 /* TutorialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialView.swift; sourceTree = "<group>"; };
+		D38D76A11FF6D4350018D0F9 /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
+		D38D76A31FF6D6DE0018D0F9 /* ExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,22 +92,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D32AECAE201A5FFA004D2942 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		D33143C21FE24D9F00F88D49 = {
 			isa = PBXGroup;
 			children = (
+				B2C3949720CAEFE9008A19C1 /* StudentView.swift */,
+				D38A41341FE2948A0031EEA7 /* MainMenuView.swift */,
+				D38A41321FE281420031EEA7 /* CreateUserView.swift */,
+				D38D769D1FF681410018D0F9 /* SettingsView.swift */,
+				D38D769F1FF6D31A0018D0F9 /* TutorialView.swift */,
+				D38D76A31FF6D6DE0018D0F9 /* ExampleView.swift */,
+				D38D76A11FF6D4350018D0F9 /* PracticeView.swift */,
+				B2C3949920CAF59B008A19C1 /* TestView.swift */,
 				D33143CD1FE24D9F00F88D49 /* LearningExpress */,
 				D33143E51FE24D9F00F88D49 /* LearningExpressTests */,
 				D33143F01FE24D9F00F88D49 /* LearningExpressUITests */,
 				D33143CC1FE24D9F00F88D49 /* Products */,
+				D32AECAE201A5FFA004D2942 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		D33143CC1FE24D9F00F88D49 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D33143CB1FE24D9F00F88D49 /* LearningExpress.app */,
-				D33143E21FE24D9F00F88D49 /* LearningExpressTests.xctest */,
-				D33143ED1FE24D9F00F88D49 /* LearningExpressUITests.xctest */,
+				D33143CB1FE24D9F00F88D49 /* AshmunExpress.app */,
+				D33143E21FE24D9F00F88D49 /* AshmunExpressTests.xctest */,
+				D33143ED1FE24D9F00F88D49 /* AshmunExpressUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,9 +163,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D33143CA1FE24D9F00F88D49 /* LearningExpress */ = {
+		D33143CA1FE24D9F00F88D49 /* AshmunExpress */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D33143F61FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpress" */;
+			buildConfigurationList = D33143F61FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpress" */;
 			buildPhases = (
 				D33143C71FE24D9F00F88D49 /* Sources */,
 				D33143C81FE24D9F00F88D49 /* Frameworks */,
@@ -143,14 +175,14 @@
 			);
 			dependencies = (
 			);
-			name = LearningExpress;
+			name = AshmunExpress;
 			productName = LearningExpress;
-			productReference = D33143CB1FE24D9F00F88D49 /* LearningExpress.app */;
+			productReference = D33143CB1FE24D9F00F88D49 /* AshmunExpress.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D33143E11FE24D9F00F88D49 /* LearningExpressTests */ = {
+		D33143E11FE24D9F00F88D49 /* AshmunExpressTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D33143F91FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpressTests" */;
+			buildConfigurationList = D33143F91FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpressTests" */;
 			buildPhases = (
 				D33143DE1FE24D9F00F88D49 /* Sources */,
 				D33143DF1FE24D9F00F88D49 /* Frameworks */,
@@ -161,14 +193,14 @@
 			dependencies = (
 				D33143E41FE24D9F00F88D49 /* PBXTargetDependency */,
 			);
-			name = LearningExpressTests;
+			name = AshmunExpressTests;
 			productName = LearningExpressTests;
-			productReference = D33143E21FE24D9F00F88D49 /* LearningExpressTests.xctest */;
+			productReference = D33143E21FE24D9F00F88D49 /* AshmunExpressTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D33143EC1FE24D9F00F88D49 /* LearningExpressUITests */ = {
+		D33143EC1FE24D9F00F88D49 /* AshmunExpressUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D33143FC1FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpressUITests" */;
+			buildConfigurationList = D33143FC1FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpressUITests" */;
 			buildPhases = (
 				D33143E91FE24D9F00F88D49 /* Sources */,
 				D33143EA1FE24D9F00F88D49 /* Frameworks */,
@@ -179,9 +211,9 @@
 			dependencies = (
 				D33143EF1FE24D9F00F88D49 /* PBXTargetDependency */,
 			);
-			name = LearningExpressUITests;
+			name = AshmunExpressUITests;
 			productName = LearningExpressUITests;
-			productReference = D33143ED1FE24D9F00F88D49 /* LearningExpressUITests.xctest */;
+			productReference = D33143ED1FE24D9F00F88D49 /* AshmunExpressUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -191,7 +223,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = CSC_Research;
 				TargetAttributes = {
 					D33143CA1FE24D9F00F88D49 = {
@@ -210,7 +242,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D33143C61FE24D9F00F88D49 /* Build configuration list for PBXProject "LearningExpress" */;
+			buildConfigurationList = D33143C61FE24D9F00F88D49 /* Build configuration list for PBXProject "AshmunExpress" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -223,9 +255,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D33143CA1FE24D9F00F88D49 /* LearningExpress */,
-				D33143E11FE24D9F00F88D49 /* LearningExpressTests */,
-				D33143EC1FE24D9F00F88D49 /* LearningExpressUITests */,
+				D33143CA1FE24D9F00F88D49 /* AshmunExpress */,
+				D33143E11FE24D9F00F88D49 /* AshmunExpressTests */,
+				D33143EC1FE24D9F00F88D49 /* AshmunExpressUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -262,9 +294,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D38D769E1FF681410018D0F9 /* SettingsView.swift in Sources */,
+				B2C3949820CAEFE9008A19C1 /* StudentView.swift in Sources */,
+				B2C3949A20CAF59B008A19C1 /* TestView.swift in Sources */,
+				D38A41351FE2948A0031EEA7 /* MainMenuView.swift in Sources */,
 				D33143D71FE24D9F00F88D49 /* LearningExpress.xcdatamodeld in Sources */,
+				D38D76A01FF6D31A0018D0F9 /* TutorialView.swift in Sources */,
 				D33143D11FE24D9F00F88D49 /* ViewController.swift in Sources */,
 				D33143CF1FE24D9F00F88D49 /* AppDelegate.swift in Sources */,
+				D38D76A21FF6D4350018D0F9 /* PracticeView.swift in Sources */,
+				D38A41331FE281420031EEA7 /* CreateUserView.swift in Sources */,
+				D38D76A41FF6D6DE0018D0F9 /* ExampleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,12 +329,12 @@
 /* Begin PBXTargetDependency section */
 		D33143E41FE24D9F00F88D49 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D33143CA1FE24D9F00F88D49 /* LearningExpress */;
+			target = D33143CA1FE24D9F00F88D49 /* AshmunExpress */;
 			targetProxy = D33143E31FE24D9F00F88D49 /* PBXContainerItemProxy */;
 		};
 		D33143EF1FE24D9F00F88D49 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D33143CA1FE24D9F00F88D49 /* LearningExpress */;
+			target = D33143CA1FE24D9F00F88D49 /* AshmunExpress */;
 			targetProxy = D33143EE1FE24D9F00F88D49 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -333,6 +373,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -340,6 +381,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -390,6 +432,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -397,6 +440,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -431,10 +475,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6WF86E8HZ;
+				DEVELOPMENT_TEAM = 4F94KWSK49;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = LearningExpress/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.LearningExpress;
+				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.AshmunExpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -446,10 +495,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6WF86E8HZ;
+				DEVELOPMENT_TEAM = 4F94KWSK49;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = LearningExpress/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.LearningExpress;
+				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.AshmunExpress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -462,14 +516,14 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6WF86E8HZ;
+				DEVELOPMENT_TEAM = YWCM5LZR76;
 				INFOPLIST_FILE = LearningExpressTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.LearningExpressTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LearningExpress.app/LearningExpress";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AshmunExpress.app/AshmunExpress";
 			};
 			name = Debug;
 		};
@@ -479,14 +533,14 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6WF86E8HZ;
+				DEVELOPMENT_TEAM = YWCM5LZR76;
 				INFOPLIST_FILE = LearningExpressTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LincolnUniversity.LearningExpressTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LearningExpress.app/LearningExpress";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AshmunExpress.app/AshmunExpress";
 			};
 			name = Release;
 		};
@@ -525,7 +579,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D33143C61FE24D9F00F88D49 /* Build configuration list for PBXProject "LearningExpress" */ = {
+		D33143C61FE24D9F00F88D49 /* Build configuration list for PBXProject "AshmunExpress" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D33143F41FE24D9F00F88D49 /* Debug */,
@@ -534,7 +588,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D33143F61FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpress" */ = {
+		D33143F61FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpress" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D33143F71FE24D9F00F88D49 /* Debug */,
@@ -543,7 +597,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D33143F91FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpressTests" */ = {
+		D33143F91FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpressTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D33143FA1FE24D9F00F88D49 /* Debug */,
@@ -552,7 +606,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D33143FC1FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "LearningExpressUITests" */ = {
+		D33143FC1FE24D9F00F88D49 /* Build configuration list for PBXNativeTarget "AshmunExpressUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D33143FD1FE24D9F00F88D49 /* Debug */,
