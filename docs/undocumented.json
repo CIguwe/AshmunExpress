@@ -1,0 +1,2406 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 36,
+      "symbol": "CreateUserView.fname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 37,
+      "symbol": "CreateUserView.lname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 38,
+      "symbol": "CreateUserView.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 39,
+      "symbol": "CreateUserView.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 40,
+      "symbol": "CreateUserView.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 41,
+      "symbol": "CreateUserView.repassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 42,
+      "symbol": "CreateUserView.UserType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 43,
+      "symbol": "CreateUserView.submit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 45,
+      "symbol": "CreateUserView.UserList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 46,
+      "symbol": "CreateUserView.SelectedUserValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 47,
+      "symbol": "CreateUserView.selecteduser",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 48,
+      "symbol": "CreateUserView.UpLoadData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 49,
+      "symbol": "CreateUserView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 55,
+      "symbol": "CreateUserView.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 63,
+      "symbol": "CreateUserView.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 72,
+      "symbol": "CreateUserView.textFieldDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 76,
+      "symbol": "CreateUserView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 89,
+      "symbol": "CreateUserView.keyboardWillChange(notification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 102,
+      "symbol": "CreateUserView.loadUserType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 109,
+      "symbol": "CreateUserView.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 112,
+      "symbol": "CreateUserView.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 115,
+      "symbol": "CreateUserView.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 119,
+      "symbol": "CreateUserView.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 122,
+      "symbol": "CreateUserView.Submit(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 142,
+      "symbol": "CreateUserView.SendData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/CreateUserView.swift",
+      "line": 180,
+      "symbol": "CreateUserView.ErrorWarning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 3,
+      "symbol": "ExampleView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 4,
+      "symbol": "ExampleView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 5,
+      "symbol": "ExampleView.Next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 6,
+      "symbol": "ExampleView.Question",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 7,
+      "symbol": "ExampleView.ImgView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 8,
+      "symbol": "ExampleView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 9,
+      "symbol": "ExampleView.Choice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 11,
+      "symbol": "ExampleView.lbLKeyTerms",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 12,
+      "symbol": "ExampleView.btnEight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 13,
+      "symbol": "ExampleView.btnSeven",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 14,
+      "symbol": "ExampleView.btnSix",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 15,
+      "symbol": "ExampleView.btnFive",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 16,
+      "symbol": "ExampleView.btnFour",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 17,
+      "symbol": "ExampleView.btnThree",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 18,
+      "symbol": "ExampleView.btnTwo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 19,
+      "symbol": "ExampleView.btnOne",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 20,
+      "symbol": "ExampleView.CoinImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 21,
+      "symbol": "ExampleView.DiceImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 22,
+      "symbol": "ExampleView.chromosomeImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 23,
+      "symbol": "ExampleView.chromosomeImageII",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 24,
+      "symbol": "ExampleView.downLoadQuestion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 26,
+      "symbol": "ExampleView.screen",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 27,
+      "symbol": "ExampleView.questions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 28,
+      "symbol": "ExampleView.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 29,
+      "symbol": "ExampleView.examStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 30,
+      "symbol": "ExampleView.isUserDone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 32,
+      "symbol": "ExampleView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 44,
+      "symbol": "ExampleView.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 48,
+      "symbol": "ExampleView.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 52,
+      "symbol": "ExampleView.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 58,
+      "symbol": "ExampleView.MainMenuButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 62,
+      "symbol": "ExampleView.hideKeyTerms()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 73,
+      "symbol": "ExampleView.unhideKeyTerms(btn1:btn2:btn3:btn4:btn5:btn6:btn7:btn8:lblbtn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 84,
+      "symbol": "ExampleView.AnswerWarning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 91,
+      "symbol": "ExampleView.retriveData(userSection:userLevel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 114,
+      "symbol": "ExampleView.Next(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 148,
+      "symbol": "ExampleView.displayImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 201,
+      "symbol": "ExampleView.displayDefinitions()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 346,
+      "symbol": "ExampleView.ButtonOne(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 362,
+      "symbol": "ExampleView.ButtonTwo(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 379,
+      "symbol": "ExampleView.ButtonThree(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 391,
+      "symbol": "ExampleView.ButtonFour(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 399,
+      "symbol": "ExampleView.ButtonFive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 404,
+      "symbol": "ExampleView.ButtonSix(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 407,
+      "symbol": "ExampleView.ButtonSeven(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/ExampleView.swift",
+      "line": 410,
+      "symbol": "ExampleView.ButtonEight(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 28,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 37,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 49,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/AppDelegate.swift",
+      "line": 78,
+      "symbol": "AppDelegate.saveContext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 10,
+      "symbol": "UIViewController.hideKeyboardWhenTappedAround()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 19,
+      "symbol": "UIViewController.dismissKeyboard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 25,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 26,
+      "symbol": "ViewController.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 27,
+      "symbol": "ViewController.userPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 28,
+      "symbol": "ViewController.loginSwitch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 29,
+      "symbol": "ViewController.signInBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 30,
+      "symbol": "ViewController.createBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 32,
+      "symbol": "ViewController.downLoadData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 33,
+      "symbol": "ViewController.login",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 35,
+      "symbol": "ViewController.ErrorWarning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 42,
+      "symbol": "ViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 62,
+      "symbol": "ViewController.SetLogin(val:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 65,
+      "symbol": "ViewController.GetLogin()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 68,
+      "symbol": "ViewController.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 72,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 86,
+      "symbol": "ViewController.keyboardWillChange(notification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 100,
+      "symbol": "ViewController.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 106,
+      "symbol": "ViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 115,
+      "symbol": "ViewController.LogInSwitch(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 122,
+      "symbol": "ViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 129,
+      "symbol": "ViewController.UserSignIn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 186,
+      "symbol": "FirstTimeView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 187,
+      "symbol": "FirstTimeView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 188,
+      "symbol": "FirstTimeView.login",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 190,
+      "symbol": "FirstTimeView.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 194,
+      "symbol": "FirstTimeView.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 200,
+      "symbol": "FirstTimeView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 206,
+      "symbol": "FirstTimeView.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 216,
+      "symbol": "FirstTimeView.Click(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 226,
+      "symbol": "FirstTimeTeacherView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 227,
+      "symbol": "FirstTimeTeacherView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 228,
+      "symbol": "FirstTimeTeacherView.login",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 229,
+      "symbol": "FirstTimeTeacherView.course_titleField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 230,
+      "symbol": "FirstTimeTeacherView.course_numberField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 231,
+      "symbol": "FirstTimeTeacherView.semesterField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 232,
+      "symbol": "FirstTimeTeacherView.sendCourse",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 233,
+      "symbol": "FirstTimeTeacherView.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 239,
+      "symbol": "FirstTimeTeacherView.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 247,
+      "symbol": "FirstTimeTeacherView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 258,
+      "symbol": "FirstTimeTeacherView.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 267,
+      "symbol": "FirstTimeTeacherView.keyboardWillChange(notification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 280,
+      "symbol": "FirstTimeTeacherView.sendData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 300,
+      "symbol": "FirstTimeTeacherView.Click(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 315,
+      "symbol": "WelcomeView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 316,
+      "symbol": "WelcomeView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 317,
+      "symbol": "WelcomeView.login",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 319,
+      "symbol": "WelcomeView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 320,
+      "symbol": "WelcomeView.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/LearningExpress/ViewController.swift",
+      "line": 337,
+      "symbol": "WelcomeView.GetStarted(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 3,
+      "symbol": "MainMenuView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 4,
+      "symbol": "MainMenuView.UpLoadLogOut",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 5,
+      "symbol": "MainMenuView.Statstics",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 6,
+      "symbol": "MainMenuView.Genetics",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 7,
+      "symbol": "MainMenuView.Physiology",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 8,
+      "symbol": "MainMenuView.ExButtonOne",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 9,
+      "symbol": "MainMenuView.ExButtonTwo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 10,
+      "symbol": "MainMenuView.ExButtonThree",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 14,
+      "symbol": "MainMenuView.Choice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 15,
+      "symbol": "MainMenuView.firstClick",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 16,
+      "symbol": "MainMenuView.secondClick",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 17,
+      "symbol": "MainMenuView.thirdClick",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 18,
+      "symbol": "MainMenuView.fourthClick",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 19,
+      "symbol": "MainMenuView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 22,
+      "symbol": "MainMenuView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 49,
+      "symbol": "MainMenuView.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 56,
+      "symbol": "MainMenuView.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 60,
+      "symbol": "MainMenuView.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 89,
+      "symbol": "MainMenuView.logOutButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 107,
+      "symbol": "MainMenuView.BackButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 161,
+      "symbol": "MainMenuView.BackTo(StatTitle:GeneTitle:PhysiTitle:ExButOne:ExButTwo:ExButThree:click:rmv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 193,
+      "symbol": "MainMenuView.statisticsChoice(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 304,
+      "symbol": "MainMenuView.geneticsChoice(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 410,
+      "symbol": "MainMenuView.physiologyChoice(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 490,
+      "symbol": "MainMenuView.ExtraButtonOne(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 517,
+      "symbol": "MainMenuView.ExtraButtonTwo(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 545,
+      "symbol": "MainMenuView.ExtraButtonThree(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 582,
+      "symbol": "TeacherMainMenuView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 590,
+      "symbol": "TeacherMainMenuView.UpLoadLogOut",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 591,
+      "symbol": "TeacherMainMenuView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 592,
+      "symbol": "TeacherMainMenuView.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 593,
+      "symbol": "TeacherMainMenuView.studentTable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 596,
+      "symbol": "TeacherMainMenuView.tables",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 597,
+      "symbol": "TeacherMainMenuView.counter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 598,
+      "symbol": "TeacherMainMenuView.downloadAssesment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 600,
+      "symbol": "TeacherMainMenuView.assess",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 601,
+      "symbol": "TeacherMainMenuView.userID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 602,
+      "symbol": "TeacherMainMenuView.section",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 603,
+      "symbol": "TeacherMainMenuView.level",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 604,
+      "symbol": "TeacherMainMenuView.attempt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 605,
+      "symbol": "TeacherMainMenuView.time",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 606,
+      "symbol": "TeacherMainMenuView.score",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 607,
+      "symbol": "TeacherMainMenuView.studentData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 613,
+      "symbol": "TeacherMainMenuView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 636,
+      "symbol": "TeacherMainMenuView.getStudentInfo()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 686,
+      "symbol": "TeacherMainMenuView.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 690,
+      "symbol": "TeacherMainMenuView.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 701,
+      "symbol": "TeacherMainMenuView.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/MainMenuView.swift",
+      "line": 745,
+      "symbol": "TeacherMainMenuView.logOutButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 2,
+      "symbol": "PracticeView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 3,
+      "symbol": "PracticeView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 4,
+      "symbol": "PracticeView.Question",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 5,
+      "symbol": "PracticeView.OptionA",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 6,
+      "symbol": "PracticeView.OptionB",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 7,
+      "symbol": "PracticeView.OptionC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 8,
+      "symbol": "PracticeView.OptionD",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 9,
+      "symbol": "PracticeView.Inputlabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 10,
+      "symbol": "PracticeView.InputTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 11,
+      "symbol": "PracticeView.Next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 12,
+      "symbol": "PracticeView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 15,
+      "symbol": "PracticeView.Choice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 16,
+      "symbol": "PracticeView.questions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 17,
+      "symbol": "PracticeView.questions2",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 18,
+      "symbol": "PracticeView.correctAnswers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 19,
+      "symbol": "PracticeView.Answer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 20,
+      "symbol": "PracticeView.OptA",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 21,
+      "symbol": "PracticeView.OptB",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 22,
+      "symbol": "PracticeView.OptC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 23,
+      "symbol": "PracticeView.OptD",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 24,
+      "symbol": "PracticeView.correctExplanation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 25,
+      "symbol": "PracticeView.incorrectExplanation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 26,
+      "symbol": "PracticeView.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 27,
+      "symbol": "PracticeView.attempts",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 28,
+      "symbol": "PracticeView.examStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 29,
+      "symbol": "PracticeView.isUserDone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 30,
+      "symbol": "PracticeView.isTimeRunning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 31,
+      "symbol": "PracticeView.timer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 32,
+      "symbol": "PracticeView.seconds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 33,
+      "symbol": "PracticeView.downLoadQuestion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 34,
+      "symbol": "PracticeView.sendAssessment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 35,
+      "symbol": "PracticeView.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 38,
+      "symbol": "PracticeView.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 42,
+      "symbol": "PracticeView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 48,
+      "symbol": "PracticeView.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 53,
+      "symbol": "PracticeView.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 59,
+      "symbol": "PracticeView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 80,
+      "symbol": "PracticeView.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 85,
+      "symbol": "PracticeView.keyboardWillChange(notification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 98,
+      "symbol": "PracticeView.MainMenuButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 102,
+      "symbol": "PracticeView.retriveData(userSection:userLevel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 132,
+      "symbol": "PracticeView.Warning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 140,
+      "symbol": "PracticeView.initializeQuestionView(a:b:c:d:inlabel:inText:inTextField:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 149,
+      "symbol": "PracticeView.initializeQuestionView(a:b:c:d:inlabel:inText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 158,
+      "symbol": "PracticeView.Next(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 234,
+      "symbol": "PracticeView.updateTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 238,
+      "symbol": "PracticeView.timeString(time:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 244,
+      "symbol": "PracticeView.runTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/PracticeView.swift",
+      "line": 245,
+      "symbol": "PracticeView.stopTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/SettingsView.swift",
+      "line": 3,
+      "symbol": "SettingsView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/SettingsView.swift",
+      "line": 4,
+      "symbol": "SettingsView.userProfile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/SettingsView.swift",
+      "line": 6,
+      "symbol": "SettingsView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/SettingsView.swift",
+      "line": 12,
+      "symbol": "SettingsView.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 12,
+      "symbol": "TableStats",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 13,
+      "symbol": "TableStats.assess_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 14,
+      "symbol": "TableStats.user_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 15,
+      "symbol": "TableStats.section",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 16,
+      "symbol": "TableStats.level",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 17,
+      "symbol": "TableStats.attempt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 18,
+      "symbol": "TableStats.time_spent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 19,
+      "symbol": "TableStats.score",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 20,
+      "symbol": "TableStats.first_name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 23,
+      "symbol": "StudentView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 25,
+      "symbol": "StudentView.userProfile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 26,
+      "symbol": "StudentView.sectionLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 27,
+      "symbol": "StudentView.nameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 28,
+      "symbol": "StudentView.timeLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 29,
+      "symbol": "StudentView.scoreLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 30,
+      "symbol": "StudentView.attemptLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 31,
+      "symbol": "StudentView.levelLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 32,
+      "symbol": "StudentView.table",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 33,
+      "symbol": "StudentView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/StudentView.swift",
+      "line": 45,
+      "symbol": "StudentView.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 3,
+      "symbol": "TestView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 4,
+      "symbol": "TestView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 5,
+      "symbol": "TestView.Question",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 6,
+      "symbol": "TestView.OptionA",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 7,
+      "symbol": "TestView.OptionB",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 8,
+      "symbol": "TestView.OptionC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 9,
+      "symbol": "TestView.OptionD",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 10,
+      "symbol": "TestView.Inputlabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 11,
+      "symbol": "TestView.InputTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 12,
+      "symbol": "TestView.Next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 14,
+      "symbol": "TestView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 15,
+      "symbol": "TestView.Choice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 16,
+      "symbol": "TestView.questions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 17,
+      "symbol": "TestView.questions2",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 18,
+      "symbol": "TestView.ID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 19,
+      "symbol": "TestView.Answer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 20,
+      "symbol": "TestView.OptA",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 21,
+      "symbol": "TestView.OptB",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 22,
+      "symbol": "TestView.OptC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 23,
+      "symbol": "TestView.OptD",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 24,
+      "symbol": "TestView.correctExplanation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 25,
+      "symbol": "TestView.incorrectExplanation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 26,
+      "symbol": "TestView.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 27,
+      "symbol": "TestView.attempts",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 28,
+      "symbol": "TestView.correctAnswers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 29,
+      "symbol": "TestView.examStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 30,
+      "symbol": "TestView.isUserDone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 32,
+      "symbol": "TestView.timer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 33,
+      "symbol": "TestView.seconds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 34,
+      "symbol": "TestView.isTimeRunning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 36,
+      "symbol": "TestView.downLoadQuestion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 37,
+      "symbol": "TestView.sendAssessment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 39,
+      "symbol": "TestView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 46,
+      "symbol": "TestView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 63,
+      "symbol": "TestView.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 68,
+      "symbol": "TestView.keyboardWillChange(notification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 82,
+      "symbol": "TestView.initializeTextFields()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 85,
+      "symbol": "TestView.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 89,
+      "symbol": "TestView.SendAssessment(grade:timeSpent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 116,
+      "symbol": "TestView.retriveData(userSection:userLevel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 147,
+      "symbol": "TestView.Warning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 153,
+      "symbol": "TestView.initializeQuestionView(a:b:c:d:inlabel:inText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 161,
+      "symbol": "TestView.initializeQuestionView(a:b:c:d:inlabel:inText:inTextField:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 170,
+      "symbol": "TestView.Next(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 234,
+      "symbol": "TestView.updateTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 238,
+      "symbol": "TestView.timeString(time:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 244,
+      "symbol": "TestView.stopTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TestView.swift",
+      "line": 249,
+      "symbol": "TestView.runTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 2,
+      "symbol": "TutorialView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 3,
+      "symbol": "TutorialView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 4,
+      "symbol": "TutorialView.Question",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 5,
+      "symbol": "TutorialView.Next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 6,
+      "symbol": "TutorialView.ImageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 9,
+      "symbol": "TutorialView.lbLKeyTerms",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 10,
+      "symbol": "TutorialView.btnEight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 11,
+      "symbol": "TutorialView.btnSeven",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 12,
+      "symbol": "TutorialView.btnSix",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 13,
+      "symbol": "TutorialView.btnFive",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 14,
+      "symbol": "TutorialView.btnFour",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 15,
+      "symbol": "TutorialView.btnThree",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 16,
+      "symbol": "TutorialView.btnTwo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 17,
+      "symbol": "TutorialView.btnOne",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 19,
+      "symbol": "TutorialView.tableOfOut",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 20,
+      "symbol": "TutorialView.Choice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 21,
+      "symbol": "TutorialView.USER",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 22,
+      "symbol": "TutorialView.downLoadQuestion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 23,
+      "symbol": "TutorialView.questions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 24,
+      "symbol": "TutorialView.count",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 25,
+      "symbol": "TutorialView.examStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 26,
+      "symbol": "TutorialView.isUserDone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 28,
+      "symbol": "TutorialView.AnswerWarning(msg:titl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 35,
+      "symbol": "TutorialView.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 57,
+      "symbol": "TutorialView.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 61,
+      "symbol": "TutorialView.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 67,
+      "symbol": "TutorialView.MainMenuButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 72,
+      "symbol": "TutorialView.hideKeyTerms()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 83,
+      "symbol": "TutorialView.unhideKeyTerms(btn1:btn2:btn3:btn4:btn5:btn6:btn7:btn8:lblbtn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 101,
+      "symbol": "TutorialView.retriveData(userSection:userLevel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 124,
+      "symbol": "TutorialView.Next(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 162,
+      "symbol": "TutorialView.displayImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 194,
+      "symbol": "TutorialView.displayDefinitions()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 289,
+      "symbol": "TutorialView.ButtonOne(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 300,
+      "symbol": "TutorialView.ButtonTwo(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 311,
+      "symbol": "TutorialView.ButtonThree(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 324,
+      "symbol": "TutorialView.ButtonFour(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 335,
+      "symbol": "TutorialView.ButtonFive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 344,
+      "symbol": "TutorialView.ButtonSix(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 350,
+      "symbol": "TutorialView.ButtonSeven(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2/TutorialView.swift",
+      "line": 356,
+      "symbol": "TutorialView.ButtonEight(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/LearningExpress/Downloads/LearningExpress_1z 3 3 2"
+}
