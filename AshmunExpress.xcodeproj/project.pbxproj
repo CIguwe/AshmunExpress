@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		025A4080233BC3930029E605 /* CreateUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38A41321FE281420031EEA7 /* CreateUserView.swift */; };
 		B2C3949820CAEFE9008A19C1 /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C3949720CAEFE9008A19C1 /* StudentView.swift */; };
 		B2C3949A20CAF59B008A19C1 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C3949920CAF59B008A19C1 /* TestView.swift */; };
 		D33143CF1FE24D9F00F88D49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143CE1FE24D9F00F88D49 /* AppDelegate.swift */; };
@@ -17,7 +18,6 @@
 		D33143DC1FE24D9F00F88D49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D33143DA1FE24D9F00F88D49 /* LaunchScreen.storyboard */; };
 		D33143E71FE24D9F00F88D49 /* LearningExpressTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143E61FE24D9F00F88D49 /* LearningExpressTests.swift */; };
 		D33143F21FE24D9F00F88D49 /* LearningExpressUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D33143F11FE24D9F00F88D49 /* LearningExpressUITests.swift */; };
-		D38A41331FE281420031EEA7 /* CreateUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38A41321FE281420031EEA7 /* CreateUserView.swift */; };
 		D38A41351FE2948A0031EEA7 /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38A41341FE2948A0031EEA7 /* MainMenuView.swift */; };
 		D38D769E1FF681410018D0F9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D769D1FF681410018D0F9 /* SettingsView.swift */; };
 		D38D76A01FF6D31A0018D0F9 /* TutorialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38D769F1FF6D31A0018D0F9 /* TutorialView.swift */; };
@@ -295,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D38D769E1FF681410018D0F9 /* SettingsView.swift in Sources */,
+				025A4080233BC3930029E605 /* CreateUserView.swift in Sources */,
 				B2C3949820CAEFE9008A19C1 /* StudentView.swift in Sources */,
 				B2C3949A20CAF59B008A19C1 /* TestView.swift in Sources */,
 				D38A41351FE2948A0031EEA7 /* MainMenuView.swift in Sources */,
@@ -303,7 +304,6 @@
 				D33143D11FE24D9F00F88D49 /* ViewController.swift in Sources */,
 				D33143CF1FE24D9F00F88D49 /* AppDelegate.swift in Sources */,
 				D38D76A21FF6D4350018D0F9 /* PracticeView.swift in Sources */,
-				D38A41331FE281420031EEA7 /* CreateUserView.swift in Sources */,
 				D38D76A41FF6D6DE0018D0F9 /* ExampleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
